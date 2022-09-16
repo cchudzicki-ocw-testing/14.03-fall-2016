@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section contains materials used during the class'' recitation sessions. '
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
