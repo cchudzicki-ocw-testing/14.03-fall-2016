@@ -2,7 +2,8 @@
   "term": "Fall",
   "year": "2016",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -41,8 +42,9 @@
   "learning_resource_types": [
     "Exams",
     "Lecture Notes",
-    "Problem Sets with Solutions"
+    "Problem Sets with Solutions",
+    "Instructor Insights"
   ],
-  "site_uid": "dfd9c091-21bb-4649-ba10-cebaa7eb4cff",
+  "site_uid": "e949b4d6-dec8-4103-9d66-10a212ba415b",
   "title": "Course Metadata"
 }
